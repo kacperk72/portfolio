@@ -134,7 +134,7 @@ header {
 
 .aboutus-hero {
     position: relative;
-    background-image: url('/img/computer_1280.png');
+    background-image: url('../img/computer_1280.png');
     background-position: center;
     background-size: cover;
     color: $light-gray;
@@ -363,7 +363,7 @@ header {
     }
 
     .aboutus-hero {
-        background-image: url('/img/computer_1280.png'); //mozna zmienic na mniejsze
+        background-image: url('../img/computer_1280.png'); //mozna zmienic na mniejsze
     }
 
     .experiences {
