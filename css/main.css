@@ -245,7 +245,7 @@ header .bi-chevron-down {
 
 .aboutus-hero {
   position: relative;
-  background-image: url("/img/computer_1280.png");
+  background-image: url("../img/computer_1280.png");
   background-position: center;
   background-size: cover;
   color: #ddd;
